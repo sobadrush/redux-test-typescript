@@ -1,0 +1,17 @@
+【如何實現JavaScript物件導向的「private」成員】
+https://tw.twincl.com/javascript/*6937
+
+【React.Component<IMyProps, IMyState> --- Property is missing in type error】
+https://stackoverflow.com/questions/39908666/property-is-missing-in-type-error
+
+【React + Redux 簡單範例了解工作原理】
+https://www.ucamc.com/e-learning/javascript/304-react-redux-how-work
+
+【Day 27: Redux篇 - 使用react-redux綁定Redux與React】
+https://ithelp.ithome.com.tw/articles/10187762
+
+【React 與他的快樂小夥伴 Redux -基礎教學】
+https://medium.com/enjoy-life-enjoy-coding/react-%E5%8F%8A-redux-%E9%96%93%E7%9A%84%E6%97%A5%E5%B8%B8-1-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8-215436d14430
+
+【React Refs】
+https://www.fooish.com/reactjs/refs.html
