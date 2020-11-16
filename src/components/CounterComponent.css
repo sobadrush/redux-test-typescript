@@ -1,0 +1,13 @@
+.my-border {
+    border: 3px solid rgb(255, 255, 255);
+    width: 10cm;
+    height: 5cm;
+}
+
+.my-btn {
+    margin: 5px;
+    width: 2cm;
+    height: 1cm;
+    font-size: larger;
+    border-radius: 10px;
+}
